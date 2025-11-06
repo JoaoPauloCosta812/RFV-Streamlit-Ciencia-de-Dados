@@ -51,7 +51,7 @@ def main():
     # Configurações da página
     st.set_page_config(
         page_title='Análise RFV - Segmentação de Clientes',
-        page_icon='💎',
+        page_icon='🧮',
         layout='wide',
         initial_sidebar_state='expanded'
     )
@@ -181,3 +181,4 @@ def main():
 # Execução
 if __name__ == '__main__':
     main()
+
